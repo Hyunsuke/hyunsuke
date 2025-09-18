@@ -10,7 +10,7 @@ Hi there! I'm a developer who loves learning new things. I'm particularly drawn 
 - 🔧 Low-Level Programming & Assembly
 - 💻 Cybersecurity
 - 🚀 Full Stack Development
-- 🌐 Web Technologies
+- 🌐 Network
 
 ## 🛠️ Tech Stack
 
