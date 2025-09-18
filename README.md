@@ -4,13 +4,14 @@
 
 ## 👋 About Me
 
-Hi there! I'm a developer who loves learning new things. I'm particularly drawn to low-level programming, learning technologies and cybersecurity, always eager to understand how things work under the hood.
+Hi there! I'm a developer who loves learning new things. I'm particularly drawn to low-level programming, networking, homelab, learning technologies and cybersecurity, always eager to understand how things work under the hood.
 
 ## 📚 Study Interests
 - 🔧 Low-Level Programming & Assembly
 - 💻 Cybersecurity
 - 🚀 Full Stack Development
 - 🌐 Network
+- 🏠 Homelab  
 
 ## 🛠️ Tech Stack
 
